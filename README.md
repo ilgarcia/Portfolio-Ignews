@@ -1,4 +1,4 @@
-# [Deprecated]Personal Portfolio Project - Ignews
+# [Deprecated] Personal Portfolio Project - Ignews
 
 ## Description
 
