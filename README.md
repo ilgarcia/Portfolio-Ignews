@@ -7,7 +7,7 @@ This project is deprecated a few dependencies are outdated.
 ## Technologies Used
 
 - React
-- Next
+- Next 12
 - Next Auth
 - Faunadb
 - SASS
